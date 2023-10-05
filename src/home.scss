@@ -1,0 +1,12 @@
+.container{
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    .layout{
+        max-width: 320px;
+        width: calc(100% - 40px);
+        margin: 0 auto;
+    }
+}

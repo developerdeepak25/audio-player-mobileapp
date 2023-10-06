@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/audio-player-mobileapp/static/css/main.aff7967b.css",
+    "main.css": "/audio-player-mobileapp/static/css/main.943a73e1.css",
     "main.js": "/audio-player-mobileapp/static/js/main.7f3b2b09.js",
     "static/js/787.197ba041.chunk.js": "/audio-player-mobileapp/static/js/787.197ba041.chunk.js",
     "static/media/Violet Evergarden outro.mp3": "/audio-player-mobileapp/static/media/Violet Evergarden outro.b36369be235720b32456.mp3",
@@ -10,12 +10,12 @@
     "static/media/suzume.png": "/audio-player-mobileapp/static/media/suzume.e245d698622d71b9e77f.png",
     "static/media/Aot.jpg": "/audio-player-mobileapp/static/media/Aot.a9958390f855ca29cd0f.jpg",
     "index.html": "/audio-player-mobileapp/index.html",
-    "main.aff7967b.css.map": "/audio-player-mobileapp/static/css/main.aff7967b.css.map",
+    "main.943a73e1.css.map": "/audio-player-mobileapp/static/css/main.943a73e1.css.map",
     "main.7f3b2b09.js.map": "/audio-player-mobileapp/static/js/main.7f3b2b09.js.map",
     "787.197ba041.chunk.js.map": "/audio-player-mobileapp/static/js/787.197ba041.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aff7967b.css",
+    "static/css/main.943a73e1.css",
     "static/js/main.7f3b2b09.js"
   ]
 }

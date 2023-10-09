@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/audio-player-mobileapp/static/css/main.943a73e1.css",
-    "main.js": "/audio-player-mobileapp/static/js/main.7f3b2b09.js",
-    "static/js/787.197ba041.chunk.js": "/audio-player-mobileapp/static/js/787.197ba041.chunk.js",
-    "static/media/Violet Evergarden outro.mp3": "/audio-player-mobileapp/static/media/Violet Evergarden outro.b36369be235720b32456.mp3",
-    "static/media/Suzume no Tojimari OST.mp3": "/audio-player-mobileapp/static/media/Suzume no Tojimari OST.1bb7358e48362f7a13db.mp3",
-    "static/media/Ver  Ai Higuchi Akuma no Ko Anime Special Ver.mp3": "/audio-player-mobileapp/static/media/Ver  Ai Higuchi Akuma no Ko Anime Special Ver.9c8a35275e6d18500b85.mp3",
-    "static/media/violet-evergarden.png": "/audio-player-mobileapp/static/media/violet-evergarden.9c6f69a2a838778e2a43.png",
-    "static/media/suzume.png": "/audio-player-mobileapp/static/media/suzume.e245d698622d71b9e77f.png",
-    "static/media/Aot.jpg": "/audio-player-mobileapp/static/media/Aot.a9958390f855ca29cd0f.jpg",
-    "index.html": "/audio-player-mobileapp/index.html",
-    "main.943a73e1.css.map": "/audio-player-mobileapp/static/css/main.943a73e1.css.map",
-    "main.7f3b2b09.js.map": "/audio-player-mobileapp/static/js/main.7f3b2b09.js.map",
-    "787.197ba041.chunk.js.map": "/audio-player-mobileapp/static/js/787.197ba041.chunk.js.map"
+    "main.css": "/harmonisync/static/css/main.71493d2c.css",
+    "main.js": "/harmonisync/static/js/main.a0bb2422.js",
+    "static/js/787.197ba041.chunk.js": "/harmonisync/static/js/787.197ba041.chunk.js",
+    "static/media/Violet Evergarden outro.mp3": "/harmonisync/static/media/Violet Evergarden outro.b36369be235720b32456.mp3",
+    "static/media/Suzume no Tojimari OST.mp3": "/harmonisync/static/media/Suzume no Tojimari OST.1bb7358e48362f7a13db.mp3",
+    "static/media/Ver  Ai Higuchi Akuma no Ko Anime Special Ver.mp3": "/harmonisync/static/media/Ver  Ai Higuchi Akuma no Ko Anime Special Ver.9c8a35275e6d18500b85.mp3",
+    "static/media/violet-evergarden.png": "/harmonisync/static/media/violet-evergarden.9c6f69a2a838778e2a43.png",
+    "static/media/suzume.png": "/harmonisync/static/media/suzume.e245d698622d71b9e77f.png",
+    "static/media/Aot.jpg": "/harmonisync/static/media/Aot.a9958390f855ca29cd0f.jpg",
+    "index.html": "/harmonisync/index.html",
+    "main.71493d2c.css.map": "/harmonisync/static/css/main.71493d2c.css.map",
+    "main.a0bb2422.js.map": "/harmonisync/static/js/main.a0bb2422.js.map",
+    "787.197ba041.chunk.js.map": "/harmonisync/static/js/787.197ba041.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.943a73e1.css",
-    "static/js/main.7f3b2b09.js"
+    "static/css/main.71493d2c.css",
+    "static/js/main.a0bb2422.js"
   ]
 }

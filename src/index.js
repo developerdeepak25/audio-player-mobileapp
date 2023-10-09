@@ -10,7 +10,7 @@ import store from "./store/store";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <Provider store={store}>
-    <Router basename={process.env.PUBLIC_URL || "/expressedge"}>
+    <Router basename={process.env.PUBLIC_URL || "/harmonisync"}>
       <App />
     </Router>
   </Provider>

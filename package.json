@@ -1,7 +1,7 @@
 {
   "name": "musicplayer-webapp",
   "version": "0.1.0",
-  "homepage": "https://developerdeepak25.github.io/audio-player-mobileapp",
+  "homepage": "https://developerdeepak25.github.io/harmonisync",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.6",
